@@ -1,5 +1,6 @@
 # Vehicle-Routing-Optimization
 Overview
+
 In the Vehicle Routing Problem (VRP), the goal is to find optimal routes for multiple vehicles visiting a set of locations. (When there's only one vehicle, it reduces to the Traveling Salesman Problem.)
 
 But what do we mean by "optimal routes" for a VRP? One answer is the routes with the least total distance. However, if there are no other constraints, the optimal solution is to assign just one vehicle to visit all locations, and find a shortest route for that vehicle. This is essentially the same problem as the TSP.
