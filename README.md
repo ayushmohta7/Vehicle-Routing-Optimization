@@ -7,6 +7,6 @@ But what do we mean by "optimal routes" for a VRP? One answer is the routes with
 
 A better way to define optimal routes is to minimize the length of the longest single route among all vehicles. This is the right definition if the goal is to complete all deliveries as soon as possible. The VRP example below finds optimal routes defined this way.
 
-![1](https://github.com/user-attachments/assets/c57449d4-5601-453b-9400-45f2f8f95250)
+![1](https://github.com/user-attachments/assets/0b071ad6-a6fa-447f-9e62-fd2d397ec2ff)
 
 ![2](https://github.com/user-attachments/assets/546886aa-320a-4ddb-8d22-9cf5e878ea39)
