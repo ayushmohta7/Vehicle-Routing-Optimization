@@ -6,5 +6,7 @@ In the Vehicle Routing Problem (VRP), the goal is to find optimal routes for mul
 But what do we mean by "optimal routes" for a VRP? One answer is the routes with the least total distance. However, if there are no other constraints, the optimal solution is to assign just one vehicle to visit all locations, and find a shortest route for that vehicle. This is essentially the same problem as the TSP.
 
 A better way to define optimal routes is to minimize the length of the longest single route among all vehicles. This is the right definition if the goal is to complete all deliveries as soon as possible. The VRP example below finds optimal routes defined this way.
+
 ![1](https://github.com/user-attachments/assets/c57449d4-5601-453b-9400-45f2f8f95250)
+
 ![2](https://github.com/user-attachments/assets/546886aa-320a-4ddb-8d22-9cf5e878ea39)
