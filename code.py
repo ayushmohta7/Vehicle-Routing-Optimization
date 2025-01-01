@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from deap import base, creator, tools, algorithms
 
-# Define the problem parameters
+# Define the parameters
 num_locations = 20  # Number of locations (excluding the depot)
 locations = [(random.randint(0, 100), random.randint(0, 100)) for _ in range(num_locations)]  # Randomly generate coordinates for locations
 depot = (50, 50)  # Coordinates of the depot
