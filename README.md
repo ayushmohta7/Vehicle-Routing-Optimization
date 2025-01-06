@@ -85,5 +85,3 @@ The objective of the VRP is to determine the optimal set of routes for a fleet o
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-*Note: This README provides a general overview and usage instructions. For detailed implementation and code structure, please refer to the source code files in the repository.*
